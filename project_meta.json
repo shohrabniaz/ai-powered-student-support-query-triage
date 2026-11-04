@@ -1,10 +1,17 @@
 {
-  "seq": 58,
   "title": "AI-Powered Student Support Query Triage",
+  "old_slug": "ai-powered-student-support-query-triage",
   "slug": "ai-powered-student-support-query-triage",
   "folder": "Ai_Powered_Student_Support_Query_Triage",
   "kind": "ai",
-  "body_words": 236,
+  "body_words": 295,
+  "source": "MICT Academic",
   "project_id": "Academic Project 10",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
